@@ -6,7 +6,7 @@ body{
     background: white;
     display: flex;
     flex-direction: column;
-    justify-content: right;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     /* margin: 20px 0 50px; */
