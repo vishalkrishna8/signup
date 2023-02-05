@@ -45,7 +45,7 @@ a{
 }
 .form-container form{
     background: #fff ;
-    display: column;
+    display: flex;
     flex-direction: column;
     padding: 0 50px;
     height: 100%;
