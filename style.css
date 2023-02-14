@@ -82,7 +82,7 @@ a{
     font-weight: bold;
     padding: 12px 40px;
     letter-spacing: 1px;
-    text-transform: lowercase;
+    text-transform: uppercase;
     transition: transform 80ms ease-in;
 }
   button :active{
