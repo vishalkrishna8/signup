@@ -30,7 +30,7 @@ span{
 a{
     color: #333;
     font-size: 14px;
-    text-decoration: none;
+    text-decoration: underline;
     margin: 15px 0;
 }
  .container{
