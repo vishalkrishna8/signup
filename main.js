@@ -7,7 +7,7 @@ container.classList.add('right-panel-active')
 );
 
 signInButton.addEventListener('click',() => 
-container.classList.remove('left-panel-active')
+container.classList.remove('right-panel-active')
 );
 
 
