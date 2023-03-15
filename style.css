@@ -137,7 +137,7 @@ button.ghost{
 .overlay-panel{
     position: absolute;
     top: 0;
-    display: grid;
+    display: block;
     flex-direction: column;
     justify-content: center;
     align-items: center;
