@@ -21,6 +21,6 @@ This is a simple sign-in app written in JavaScript that allows users to create a
 4. To log in to an existing account, click on the "Sign In" button and enter your username and password.
 5. If the login is successful, you will be redirected to your profile page, where you can view and edit your information.
 
-## License
+<!-- ## License
 
-This program is licensed under the MIT License. You are free to use, modify, and distribute this program as you see fit.
+This program is licensed under the MIT License. You are free to use, modify, and distribute this program as you see fit. -->
