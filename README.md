@@ -1,6 +1,6 @@
 ## Sign In App
 
-This is a simple sign-in app written in JavaScript that allows users to create an account, sign in, and view their profile information. The program uses HTML, CSS, and JavaScript to create a graphical user interface (GUI) and provide the sign-in functionality.
+This is a simple sign-in app written in JavaScript that allows users to create an account, sign in, and view their profile information. The program uses HTML, CSS, and JavaScript to provide the sign-in functionality.
 
 ## Features
 
